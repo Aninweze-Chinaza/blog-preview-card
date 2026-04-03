@@ -59,17 +59,6 @@ time{
     font-size: 14px;
     margin-bottom: 15px;
 }
-.attribution { 
-    position: absolute;
-    bottom: 10px;
-    width: 100%;
-    font-size: 12px; 
-    text-align: center; 
-}
- .attribution a { 
-    color: hsl(228, 45%, 44%);
-    text-decoration: none; 
-}
 .author{
     display: flex;
     align-items: center;
